@@ -86,7 +86,7 @@ The Jupyter notebook contains the full model development pipeline, from data loa
 1. Click the "Open in Colab" badge above
 2. **Runtime** → **Change runtime type** → Select **GPU**
 3. **Runtime** → **Run all**
-4. Wait for training to complete (~2-3 hours)
+4. Wait for training to complete 
 5. Download the trained model from the final cell
 
 **Option 2: Local Jupyter Notebook**
